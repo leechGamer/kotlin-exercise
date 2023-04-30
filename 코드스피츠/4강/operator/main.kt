@@ -5,6 +5,6 @@ fun main(args: Array<String>) {
         }
     }
 
-    println(Op(5) + 3 == 8)
-    println(Op(5).plus(3) == 8)
+    println(Op(5) + 3 == 8) // true
+    println(Op(5).plus(3) == 8) // true
 }
